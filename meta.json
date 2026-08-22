@@ -31,6 +31,7 @@
   "labels": {
     "ledger_id": "台帳ID",
     "managed_id": "管理対象ID",
+    "category_code": "分類コード",
     "category_name": "分類",
     "url": "詳細ページ",
     "name": "名称",
@@ -62,6 +63,7 @@
   "fields": {
     "ledger_id": 66,
     "managed_id": 66,
+    "category_code": 66,
     "category_name": 66,
     "url": 66,
     "name": 66,
